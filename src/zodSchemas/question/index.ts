@@ -1,0 +1,1 @@
+export { questionSchema } from './questionSchema';
